@@ -15,7 +15,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - **Next.js**: Framework React dengan rendering statis & server hibrid, dan pra-pengambilan rute.
 - **TMDB API**: API Basis Data Film untuk mengambil data film.
 - **CSS Modules**: Untuk menata komponen.
-- 
+  
 ## Getting Started
 
 buat `.env` file dan tambahkan [API key](https://www.themoviedb.org/settings/api)
@@ -26,7 +26,7 @@ API_KEY=
 
 Clone Repositori
  ```bash
-   git clone https://github.com/your-username/movie-tmdb.git
+   git clone https://github.com/affndiangrh/fanmovies.git
    cd movie-tmdb
 ```
 Install dependencies
